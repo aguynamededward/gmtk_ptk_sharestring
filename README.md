@@ -3,7 +3,7 @@ _An encoder / decoder for GMTK's Platformer Toolkit._
 
 It has two classes: **PTKdata** and **Base36Converter**.  
     
-**Base36Converter** is a class for converting floats and bools to a string.  You don't need to touch it unless you want to.
+**Base36Converter** is a class for converting floats and bools to a base-36 string (0-9, A-Z).  You don't need to touch it unless you want to.
 
 **PTKdata** is where everything happens.
 
