@@ -27,9 +27,9 @@ When you're ready to generate the sharestring, call:
 
     EncodePTKdata();
 
-It'll return a string in the format:
+It'll return a 52-character alphanumeric string in the format:
 
-    "GM#############(repeats for 48 charaters)#####TK"
+    "GM################################################TK"
 
     
 Likewise, to decode a string and apply it to the data:
