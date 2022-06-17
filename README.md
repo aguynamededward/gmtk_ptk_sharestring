@@ -7,7 +7,7 @@ It has two classes: **PTKdata** and **Base36Converter**.
 
 **PTKdata** is where everything happens.
 
-##How does PTKdata work?
+## How does PTKdata work?
 
 Create an instance of the PTKdata() class - this will hold a copy of all the variables the PTK system allows you to control.
 
